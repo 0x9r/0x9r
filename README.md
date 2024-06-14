@@ -7,8 +7,6 @@
 <h2 align="center">I'm Rafa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <p align=center>
 
-<img src="https://tenor.com/es/view/rainbow-line-gif-gif-14870978">
-
 <h2> About Me </h2>
 
 - 🔭 I’m a IT student
