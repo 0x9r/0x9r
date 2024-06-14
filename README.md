@@ -22,7 +22,6 @@
   
 - ⚡ Fun fact: I'm a Hotwheels collector
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h2 style="color: #00FFFF;">Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3g11bfqntqmobj8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
@@ -31,3 +30,4 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
