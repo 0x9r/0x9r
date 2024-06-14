@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F70E&background=FF0F0000&center=true&random=false&width=435&lines=Hello%2C+friend.;Welcome+to+my+%3C%2FGitHub%3E" alt="Typing SVG" /></a>
 </div>
 
-<div class="tenor-gif-embed" data-postid="14870978" data-share-method="host" data-aspect-ratio="53.335" data-width="100%"><a href="https://tenor.com/view/rainbow-line-gif-gif-14870978">Rainbow Line GIF</a>from <a href="https://tenor.com/search/rainbow-gifs">Rainbow GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <h2 align="center">I'm Rafa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <p align=center>
