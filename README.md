@@ -19,4 +19,4 @@
   
 - ⚡ Fun fact: I'm a Hotwheels collector
 
-    <h2 style="color: #00FF00;">Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3g11bfqntqmobj8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
+    <h2 style="color: #00FFFF;">Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3g11bfqntqmobj8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
