@@ -23,4 +23,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,linux,windows,apple,py,cs,bash,html,css,obsidian,vscode,discord,ae,pr,ps&perline=8)](https://skillicons.dev)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyko0&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="lyko0" /></p>
+<-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyko0&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="lyko0" /></p> -->
