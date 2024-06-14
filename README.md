@@ -7,7 +7,7 @@
 <h2 align="center">I'm Rafa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <p align=center>
 
-<h2> About Me </h2>
+<h2 style="color: #00FFFF;"> About Me </h2>
 
 - 🔭 I’m a IT student
   
