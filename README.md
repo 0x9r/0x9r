@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning Hacking, Python and Web development
 
-- 👯 I have a <a href="https://discord.gg/CrKQVfxerQ">cybersecurity Discord community</a> 
+- 👯 I have a cybersecurity <a href="https://discord.gg/CrKQVfxerQ"> Discord </a> community
     
 - 💬 Ask me about cybersecurity, networks and hardware
   
