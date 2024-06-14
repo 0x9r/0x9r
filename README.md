@@ -4,10 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F70E&background=FF0F0000&center=true&random=false&width=435&lines=Hello%2C+friend.;Welcome+to+my+%3C%2FGitHub%3E" alt="Typing SVG" /></a>
 </div>
 
-
-
 <h2 align="center">I'm Rafa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <p align=center>
+
+<img src="https://tenor.com/es/view/rainbow-line-gif-gif-14870978">
 
 <h2> About Me </h2>
 
