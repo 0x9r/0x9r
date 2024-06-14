@@ -24,8 +24,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-    <h2 style="color: #00FFFF;">Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3g11bfqntqmobj8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
+<h2 style="color: #00FFFF;">Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3g11bfqntqmobj8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,linux,windows,apple,py,cs,bash,html,css,obsidian,vscode,discord,ae,pr,ps&perline=8)](https://skillicons.dev)
 
