@@ -27,6 +27,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,linux,windows,apple,py,cs,bash,html,css,obsidian,vscode,discord,ae,pr,ps&perline=8)](https://skillicons.dev)
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{lyko0}/count.svg" alt="lyko0 :: Visitor's Count" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 
